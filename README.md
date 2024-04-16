@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Mino26
+- 👋 Hi, I’m @Minodora
 - 👀 I’m interested in IT field
 - 🌱 I’m currently learning Manual & Automation Testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - minodoraborta@gmail.com
+- 📫 How to reach me - minodoraborta@gmail.com 
 
 <!---
 Mino26/Mino26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
